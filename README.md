@@ -7,4 +7,21 @@ touch git.txt github.txt
 
 to write in text files:
 echo "any text here" > git.txt
-echo "any text here" > giithub.txt
+echo "any text here" > github.txt
+
+
+### Create a branch
+
+```
+git branch diffrencesq
+
+
+```
+
+### Select a branch
+
+```
+git checkout differences
+
+```git 
+
