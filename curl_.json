@@ -1,0 +1,12 @@
+{
+    "url": "https://izaan-test.auth.us-east-1.amazoncognito.com/oauth2/token",
+    "raw_url": "https://izaan-test.auth.us-east-1.amazoncognito.com/oauth2/token",
+    "method": "post",
+    "headers": {
+        "Authorization": "Basic MXU1aW80dmE5c3I0NW43OWZjZWcyZGFtamY6MXFia3RodnA3bGJjN2FhdnVoaG1mZzhmMmNyZWtvcjloMmg3YWJ1Mm9ydTFubHBqNzFmZQ==",
+        "Content-Type": "application/x-www-form-urlencoded"
+    },
+    "data": {
+        "scope=izaan_test/post_info&grant_type=client_credentials": ""
+    }
+}
